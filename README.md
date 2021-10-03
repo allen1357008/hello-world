@@ -6,4 +6,6 @@ This repository is built step by step in the tutorial.
 It looks great!
 Up to learning how pull works...
 
+Now I switched to another branch using git checkout -b
+
 still digging~
